@@ -80,7 +80,7 @@ cd Simon-Says-Game
 ## 📸 Screenshots
 | Start Screen | Gameplay | Game Over |
 |--------------|----------|-----------|
-| ![Start](screenshots/start.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
+| ![Start](./screenshorts/start.png) | ![Gameplay](./screenshorts/gameplay.png) | ![Game Over](./screenshorts/gameover.png) |
 
 ---
 
